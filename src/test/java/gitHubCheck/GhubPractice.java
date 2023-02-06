@@ -8,6 +8,7 @@ public class GhubPractice {
 		System.out.println("hello world");
 		System.out.println("good evening");
 		System.out.println("good day");
+		System.out.println("hi guys");
 		
 	} 
 
