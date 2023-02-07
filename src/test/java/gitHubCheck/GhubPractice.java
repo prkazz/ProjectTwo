@@ -12,7 +12,7 @@ public class GhubPractice {
 		System.out.println("good 2");
 		System.out.println("good 3");
 		System.out.println("good 4");
-		System.out.println("good 4");
+		System.out.println("good 5");
 		
 	} 
 
